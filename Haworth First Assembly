@@ -1,0 +1,90 @@
+<html lang="en">
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+  integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+<link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Haworth First Assembly</title>
+  <link rel="shortcut icon" type="img/jpg" href="img/hfa logo1.png"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <header>
+          
+    <nav class="nav">
+      <div class="container">
+          <div class="logo">
+            <a href="index.html">
+            <img src="img/hfa logo1.png" class="hfalogo">
+              </a>
+          </div>
+          <div id="mainListDiv" class="main_list">
+              <ul class="navlinks">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About</a></li>
+                  <li><a href="ministries.html">Ministries</a></li>
+              </ul>
+          </div>
+
+          </div>
+          <span class="navTrigger">
+              <i></i>
+              <i></i>
+              <i></i>
+          </span>
+      </div>
+  </nav>
+
+  <section class="home">
+    <h1>Haworth First <br> Assembly of God</h1>
+  </section>
+
+  <div class="mainpage">
+    <div class="main1">
+    <img src="img/youth group.jpg" class="youth">
+    </div>
+    <div class="main2">
+      <h5>Join us Sundays and Wednesdays!</h5>
+    <p class="mainp">Come be with us in person Sundays with Sunday School beginning at 9:30am and our main service at 10:30am and Wednesday nights at 7:00pm or tune in live on our <a href="https://www.facebook.com/HaworthFirst/" style="color: white">Facebook Live</a>.
+        </p>
+    </div>
+    <div class="main3">
+    <img src="img/bowling.jpg" class="bowling">
+    </div>
+    <div class="main4">
+      <h5> Welcome to our Family </h5>
+    <p class="mainp"> No matter who you are, where you come from, or what you've been through, you will find a place at Haworth First Assembly.  
+    </div>
+</div>
+
+
+<div class="footer">
+  <div class="contact-us">
+    <ul class="social-footer">
+      <h5> <img src="img/hfalogowhite.png" class="footlogo">Haworth First Assembly</h5>
+      <li>106 South Elm, Haworth, OK 74740</li>
+      <li>(580) 245-1966</li>
+      <li>hfachurch@yahoo.com</li>
+      </ul>
+      </div>
+      
+  <div class="menu">
+    <ul class="ulmenu">
+ <li><a href="index.html" style="color: white">Home</a></li> 
+ <li><a href="about.html" style="color: white">About</a></li> 
+ <li><a href="ministries.html" style="color: white">Ministries</a></li> 
+</ul>
+  </div>
+
+<div class="icons">
+<a href="https://www.facebook.com/HaworthFirst/" class="fa fa-facebook"></a>
+<a href="https://www.instagram.com/haworthfirst/" class="fa fa-instagram"></a>
+<a href="https://www.youtube.com/channel/UCMuY304yrgGJNGgw3P9bUUQ/featured?view_as=subscriber" class="fa fa-youtube"></a>
+</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+</html>
